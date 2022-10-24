@@ -6,4 +6,7 @@
   .container {
     @apply p-2 max-w-screen-xl mx-auto
   }
+  body{
+    @apply bg-[#ffd107d9]
+  }
 }
