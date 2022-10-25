@@ -1,16 +1,8 @@
 {
-    "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": true
-    },
-    "eslint.validate": [
-      "javascript"
-    ],
-    "cSpell.words": [
-      "asseco",
-      "babyballerwhale",
-      "ballerwhale",
-      "ipfs",
-      "Iyzico"
-    ]
-  }
-  
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": [
+    "javascript"
+  ]
+}
